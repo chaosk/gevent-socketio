@@ -1,0 +1,6 @@
+/python-gevent-socketio/
+/python3-gevent-socketio/
+/*.substvars
+/files
+/*.log
+/*.debhelper

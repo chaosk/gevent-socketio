@@ -49,4 +49,5 @@ nohup.out
 
 .project
 .pydevproject
-.idea/
+.idea
+/.pybuild
