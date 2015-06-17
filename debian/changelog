@@ -1,3 +1,9 @@
+python-gevent-socketio (0.3.5~rc2+smurf2) smurf; urgency=medium
+
+  * Py3 fixes
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Wed, 17 Jun 2015 09:04:19 +0200
+
 python-gevent-socketio (0.3.5~rc2+smurf1) smurf; urgency=medium
 
   * Py3 version
